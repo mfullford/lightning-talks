@@ -27,6 +27,7 @@ Here are some suggestions...or you can add your own!
 - [ ] Coffeescript
 - [ ] CSS Advanced Topics
 - [ ] Sass
+- [x] [Elm - Jeremy](#) - 16
 - [x] [Ruby on Rails - Sam](#) - 1
 
 **Client-side Frameworks**
@@ -97,6 +98,5 @@ Here are some suggestions...or you can add your own!
 - [x] [hood.ie - Alex](#) - 7
 - [x] [threes.js - Mark](#) - 12
 - [x] [TBD - Roxann](#) - 14
-- [x] [TBD - Jeremy](#) - 16
-- [x] [TBD - Ian](#) - 17
+- [x] [Angular w/ Bootstrap and Materialize - Ian](#) - 17
 - [ ] etc... (suggest a topic of your own & have it approved)
