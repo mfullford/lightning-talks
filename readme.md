@@ -28,7 +28,7 @@ Here are some suggestions...or you can add your own!
 - [ ] CSS Advanced Topics
 - [ ] Sass
 - [ ] Elm
-- [ ] Ruby on Rails
+- [X] Ruby on Rails - Marissa
 
 **Client-side Frameworks**
 
