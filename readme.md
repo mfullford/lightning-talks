@@ -16,7 +16,7 @@ Here are some suggestions...or you can add your own!
 **Languages**
 
 - [ ] ES6 Topic
-- [ ] Python
+- [x] Python - Cameron
 - [ ] Clojure
 - [ ] Go
 - [ ] Swift
