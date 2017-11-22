@@ -36,7 +36,7 @@ Here are some suggestions...or you can add your own!
 - [ ] Ember
 - [ ] Backbone
 - [ ] Elm
-- [ ] React Native
+- [x] React Native - Mike
 
 **Server-side Frameworks**
 
